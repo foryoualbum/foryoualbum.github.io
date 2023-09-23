@@ -19,16 +19,6 @@ Contact Us
 
 Google Ad Services: Our application uses Google AdMob services to display advertisements. Google AdMob utilizes unique identifiers on the device, such as the Advertising Identifier (IDFA)  to provide ad targeting and delivery.
 
-Here are some key points regarding Google Ad Services:
-
-Advertising Identifier: The advertising identifier is a unique identifier generated on mobile devices for tracking ad effectiveness and user interaction. Google Ad Services may use the advertising identifier to display relevant ads and for ad targeting.
-
-Ad Data Collection: Google Ad Services may collect data related to advertisements, such as ad clicks, ad view counts, ad types, and user interactions with ads. This data helps improve ad delivery and user experience.
-
-Personalized Ads: Our application may allow Google Ad Services to personalize ads to some extent to provide more relevant ad content. This personalization process may be based on advertising identifiers and user interests.
-
-Ad Choices: Users can choose to limit ad tracking or reset advertising identifiers in the device settings, which may impact ad personalization and relevance.
-
 Google Privacy Policy: For more information about Google Ad Services, please refer to Google's Privacy Policy: Google Privacy Policy.
 
 Please note that we do not share your personal information with Google; Google Ad Services are used solely for displaying advertisements. If you require a more detailed Privacy Policy, please feel free to contact us.
