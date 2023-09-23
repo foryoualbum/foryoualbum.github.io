@@ -21,7 +21,7 @@ Google Ad Services: Our application uses Google AdMob services to display advert
 
 Google Privacy Policy: For more information about Google Ad Services, please refer to Google's Privacy Policy: Google Privacy Policy.
 
-Please note that we do not share your personal information with Google; Google Ad Services are used solely for displaying advertisements. If you require a more detailed Privacy Policy, please feel free to contact us.
+Please note that we do not share your personal information with Google; Google Ad Services are used solely for displaying advertisements. 
 
 Firebase Services: We use Google Firebase services to assist us in analyzing the usage of the application and enhancing the user experience. The information collected by Firebase includes user behavior data, application performance metrics, and device information. For more information regarding the Firebase Privacy Policy, please visit https://firebase.google.com/policies/analytics.
 
